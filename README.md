@@ -1,1 +1,2 @@
-# DataScience_SanberCode
+# DataScience_Week1
+Beberapa waktu lalu saya mengikuti course online Data Science di Sanbercode. Pelatihan ini diadakan 4 minggu secara online dimana setiap harinya terdapat tugas yang harus dikerjakan untuk lebih memahami materi yang disampaikan dan setiap pekannya terdapat kuis. Pelatihan ini juga diakhiri dengan pengerjaan final project. Pada minggu pertama, saya mempelajari materi dan hands on berupa python introduction, data structure, function and methods, logic control flow, looping, dan quantitive data analysis.
